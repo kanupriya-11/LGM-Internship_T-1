@@ -1,0 +1,51 @@
+#kp_nav1:hover{
+    background-color: rgb(241, 134, 215);
+    color: black;
+    border-radius: 30px;
+}
+
+#kp_nav2:hover{
+    background-color: rgb(116, 243, 99);
+    color: black;
+    border-radius: 30px;
+}
+
+#kp_nav3:hover{
+    background-color: rgb(243, 153, 78);
+    color: black;
+    border-radius: 25px;
+}
+
+#kp_nav4:hover{
+    background-color: rgb(72, 204, 236);
+    color: black;
+    border-radius: 25px;
+}
+
+#kp_nav5:hover{
+    background-color: rgb(236, 212, 76);
+    color: black;
+    border-radius: 25px;
+}
+
+#nav_barkp li a{
+    font-size: 18px;
+    font-weight: 459;
+}
+
+#kp_gallery{
+    background-color: rgb(214, 214, 214) ;
+}
+
+/* #kp_nav{
+    overflow: hidden;
+    position: fixed; /* Set the navbar to fixed position */
+    /* top: 0; Position the navbar at the top of the page */
+    /* width: 100%; Full width */
+
+    #aboutus{
+        font-weight: 600;
+    }
+
+
+
